@@ -1,0 +1,7 @@
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinData\bin\Debug\CoinData.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinData\bin\Debug\CoinData.pdb
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinData\bin\Debug\Dapper.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinData\bin\Debug\Dapper.xml
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinData\obj\Debug\CoinData.csproj.CopyComplete
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinData\obj\Debug\CoinData.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinData\obj\Debug\CoinData.pdb

@@ -1,0 +1,158 @@
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\CoinJar.dll.config
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\CoinJar.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\CoinJar.pdb
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\roslyn\csc.exe
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\roslyn\csc.exe.config
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\roslyn\csc.rsp
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\roslyn\csi.exe
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\roslyn\csi.exe.config
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\roslyn\csi.rsp
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\roslyn\System.AppContext.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\roslyn\System.Console.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\roslyn\System.IO.Compression.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\roslyn\System.Net.Http.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\roslyn\System.Net.Sockets.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\roslyn\System.ValueTuple.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\roslyn\System.Xml.XPath.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\roslyn\vbc.exe
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\roslyn\vbc.exe.config
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\roslyn\vbc.rsp
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\roslyn\VBCSCompiler.exe
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\Antlr3.Runtime.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\Newtonsoft.Json.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\System.Web.Helpers.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\System.Web.Mvc.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\System.Web.Optimization.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\System.Web.Razor.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\System.Web.WebPages.Deployment.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\System.Web.WebPages.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\System.Web.WebPages.Razor.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\WebGrease.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\System.Web.Helpers.xml
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\System.Web.Mvc.xml
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\System.Web.Optimization.xml
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\System.Web.Razor.xml
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\System.Web.WebPages.xml
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\System.Web.WebPages.Deployment.xml
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\System.Web.WebPages.Razor.xml
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\Newtonsoft.Json.xml
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\Antlr3.Runtime.pdb
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\obj\Debug\CoinJar.csprojAssemblyReference.cache
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\obj\Debug\CoinJar.csproj.CopyComplete
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\obj\Debug\CoinJar.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\obj\Debug\CoinJar.pdb
+C:\Users\phiwokuhle.nogemane\Desktop\Global Kinetic\CoinJar\bin\CoinData.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\CoinJar.dll.config
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\CoinJar.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\CoinJar.pdb
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\roslyn\csc.exe
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\roslyn\csc.exe.config
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\roslyn\csc.rsp
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\roslyn\csi.exe
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\roslyn\csi.exe.config
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\roslyn\csi.rsp
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\roslyn\System.AppContext.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\roslyn\System.Console.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\roslyn\System.IO.Compression.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\roslyn\System.Net.Http.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\roslyn\System.Net.Sockets.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\roslyn\System.ValueTuple.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\roslyn\System.Xml.XPath.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\roslyn\vbc.exe
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\roslyn\vbc.exe.config
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\roslyn\vbc.rsp
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\roslyn\VBCSCompiler.exe
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\Antlr3.Runtime.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\CoinData.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\Newtonsoft.Json.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\System.Web.Helpers.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\System.Web.Mvc.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\System.Web.Optimization.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\System.Web.Razor.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\System.Web.WebPages.Deployment.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\System.Web.WebPages.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\System.Web.WebPages.Razor.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\WebGrease.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\System.Web.Helpers.xml
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\System.Web.Mvc.xml
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\System.Web.Optimization.xml
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\System.Web.Razor.xml
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\System.Web.WebPages.xml
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\System.Web.WebPages.Deployment.xml
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\System.Web.WebPages.Razor.xml
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\Newtonsoft.Json.xml
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\Antlr3.Runtime.pdb
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\obj\Debug\CoinJar.csprojAssemblyReference.cache
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\obj\Debug\CoinJar.csproj.CopyComplete
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\obj\Debug\CoinJar.dll
+C:\Users\phiwokuhle.nogemane\Desktop\Solution\CoinJar\obj\Debug\CoinJar.pdb

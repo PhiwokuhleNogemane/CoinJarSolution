@@ -1,0 +1,79 @@
+﻿@model CoinJar.Models.CoinJarViewModel
+
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <div style="top:0px; border:none;">
+            <br>
+            <table align="center">
+
+                <tr>
+                    <td style="padding-right:20px;" height="270px" width="350px" valign="middle" align="center" style="border:5px solid black">
+                        <p style="font-size:18px;color:green">Occupied Capacity : @Model.TotalVolume Ounces</p>
+                        <br>
+                        <input class="button" type="button" value="Reset" onclick="location.href='@Url.Action( "Reset","Home")'" />
+
+                        <br>
+                        <img src="~/img/jar.jpg" alt="HTML5 Icon" style="width:250px;height:240px;">
+                        <p style="font:15px">Total Amount : $ @Model.TotalAmount</p>
+                    </td>
+                </tr>
+
+
+            </table>
+            <br>
+        </div>
+    </div>
+
+    <div class="form-horizontal" kk>
+        <div style="top:0px; border:none;">
+            <table align="center">
+
+
+
+                <tr>
+                    <td style="padding-right:20px;" height="270px" width="300px" valign="middle" align="center">
+                        <img src="~/img/penny.jpg" alt="HTML5 Icon" style="width:180px;height:180px;">
+                    </td>
+                    <td style="padding-right:20px;" height="270px" width="300px" valign="middle" align="center">
+                        <img src="~/img/nickel.jpg" alt="HTML5 Icon" style="width:180px;height:180px;">
+                    </td>
+                    <td style="padding-right:20px; " height="270px" width="300px" valign="middle" align="center">
+                        <img src="~/img/dime.jpg" alt="HTML5 Icon" style="width:180px;height:180px;">
+                    </td>
+                    <td style="padding-right:20px;" height="270px" width="300px" valign="middle" align="center">
+                        <img src="~/img/quarter.jpg" alt="HTML5 Icon" style="width:180px;height:180px;">
+
+                    </td>
+
+                </tr>
+
+                <tr>
+                    <td style="padding-left:-5px;" width="300px" valign="middle" align="center">
+                        <input class="button" type="button" value="Penny" onclick="location.href='@Url.Action( "AddCoin","Home", new {coinTypeID = 5})'" />
+                    </td>
+                    <td style="padding-left:-5px;" width="300px" valign="middle" align="center">
+                        <input align-content:end" valign="middle" align="center" type="button" class="button" value="Nickel" onclick="location.href='@Url.Action( "AddCoin","Home", new {coinTypeID = 1})'" />
+                    </td>
+                    <td style="padding-left:-5px;" width="300px" valign="middle" align="center">
+                        <input valign="middle" align="center" type="button" class="button" value="Dime" onclick="location.href='@Url.Action( "AddCoin","Home", new {coinTypeID = 25})'" />
+                    </td>
+                    <td style="padding-left:-5px;" width="300px" valign="middle" align="center">
+                        <input valign="middle" align="center" type="button" class="button" value="Quarter" onclick="location.href='@Url.Action( "AddCoin","Home", new {coinTypeID = 10})'" />
+                    </td>
+                </tr>
+
+            </table>
+        </div>
+    </div>
+}
+
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
